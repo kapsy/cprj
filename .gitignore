@@ -1,0 +1,12 @@
+.DS_STORE
+.DS_STORE?
+.apt_generated/
+xcuserdata
+adhoc\ iPAs
+*.xcworkspace
+build
+debug
+Products
+
+*swp
+*.vaf

@@ -1,0 +1,2 @@
+set makeprg=./build.sh
+nnoremap <Leader>kj :! ./build/%s<CR>

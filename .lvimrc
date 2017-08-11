@@ -1,0 +1,3 @@
+set makeprg=./build.sh
+
+nnoremap <Leader>kj :! /usr/local/cprj/cprj -n "MyCoolProject"<CR>
